@@ -4,4 +4,12 @@
 /.cache
 /.settings
 /logs
-/.idea
+.idea/
+*.iml
+.DS_Store/
+target/
+*.log
+/.project
+/.settings/
+~$*
+

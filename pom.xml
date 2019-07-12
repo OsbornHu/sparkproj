@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.blogchong</groupId>
-    <artifactId>spark-example</artifactId>
+    <artifactId>spark-proj</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
